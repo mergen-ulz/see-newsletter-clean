@@ -1,13 +1,6 @@
-import './globals.css';
-
 export const metadata = {
-  title: 'SEE Learning Mongolia Newspaper - 2026 May',
-  description: 'Full SEE Learning Mongolia newspaper issue, May 2026.',
-  openGraph: {
-    title: 'SEE Learning Mongolia Newspaper - 2026 May',
-    description: 'Full SEE Learning Mongolia newspaper issue, May 2026.',
-    images: ['/newsletter/page-1.jpg'],
-  },
+  title: 'SEE Learning Mongolia Newsletter Images',
+  description: 'Direct access to the SEE Learning Mongolia newsletter images.',
 };
 
 export default function RootLayout({ children }) {

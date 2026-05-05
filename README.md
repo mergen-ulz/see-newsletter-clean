@@ -1,6 +1,6 @@
 # SEE Learning Mongolia Full Newsletter - Vercel Project
 
-This is a Vercel-ready Next.js project for hosting the full 7-page SEE Learning Mongolia newspaper/newsletter as a clean web page.
+This is a Vercel-ready Next.js project that serves the SEE Learning Mongolia newsletter images directly.
 
 ## Run locally
 
@@ -14,6 +14,8 @@ Open:
 ```text
 http://localhost:3000
 ```
+
+The root URL redirects to the first newsletter image, and the newsletter pages are available under `/newsletter/page-1.jpg` through `/newsletter/page-7.jpg`.
 
 ## Deploy to Vercel
 
